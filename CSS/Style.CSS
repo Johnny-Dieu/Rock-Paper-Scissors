@@ -1,5 +1,5 @@
 *{
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Abel', sans-serif;
@@ -20,7 +20,6 @@ header > h1{
 body{
     color: #B2BBB3;
     background-color: #46534D;
-    overflow: hidden;
 }
 
 .score{
@@ -59,13 +58,13 @@ body{
 #user-point{
     position: absolute;
     top: 30px;
-    left: -62px;
+    left: -70px;
 }
 
 #comp-point{
     position: absolute;
     top: 30px;
-    right:-66px;
+    right:-103px;
 }
 
 .result{
