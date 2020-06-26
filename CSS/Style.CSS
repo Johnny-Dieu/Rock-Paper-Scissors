@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Abel', sans-serif;
+    text-align: center;
 }
 
 header{
@@ -96,4 +97,8 @@ body{
     text-align: center;
     font-weight: bold;
     font-size: 20px;
+}
+#footer{
+    font-size: 40px;
+    text-decoration: overline;
 }
