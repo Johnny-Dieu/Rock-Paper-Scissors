@@ -4,12 +4,8 @@
     box-sizing: border-box;
     font-family: 'Abel', sans-serif;
     text-align: center;
-    align-items: center;
-  justify-content: center;
 }
-html{
-    overflow: hidden;
-}
+
 
 header{
     padding: 20px;
